@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:budgetmaster/modules/module_1/module_1.dart';
-import 'package:budgetmaster/modules/module_2/module_2.dart';
-import 'package:budgetmaster/modules/module_3/module_3.dart';
-import 'package:budgetmaster/modules/module_4/module_4.dart';
-import 'package:budgetmaster/modules/module_5/module_5.dart';
+import 'package:babybloomers/modules/module_1/module_1.dart';
+import 'package:babybloomers/modules/module_2/module_2.dart';
+import 'package:babybloomers/modules/module_3/module_3.dart';
+import 'package:babybloomers/modules/module_4/module_4.dart';
+import 'package:babybloomers/modules/module_5/module_5.dart';
 
 
 class Home extends StatefulWidget {

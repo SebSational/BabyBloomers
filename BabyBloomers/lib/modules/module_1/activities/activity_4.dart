@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:budgetmaster/modules/module_1/activities/video.dart';
+import 'package:babybloomers/modules/module_1/activities/video.dart';
 
 class Activity4 extends StatefulWidget {
   const Activity4({super.key});

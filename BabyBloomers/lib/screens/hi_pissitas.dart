@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:budgetmaster/widgets/form1.dart';
+import 'package:babybloomers/widgets/form1.dart';
 
 
 class InformationScreen extends StatefulWidget {

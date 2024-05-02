@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:budgetmaster/modules/module_1/list_activities.dart';
+import 'package:babybloomers/modules/module_1/list_activities.dart';
 
 
 

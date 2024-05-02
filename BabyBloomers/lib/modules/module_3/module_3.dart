@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:budgetmaster/modules/module_3/list_activities.dart';
+import 'package:babybloomers/modules/module_3/list_activities.dart';
 
 
 class Module3 extends StatefulWidget {

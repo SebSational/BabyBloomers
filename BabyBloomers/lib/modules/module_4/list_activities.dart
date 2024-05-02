@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:budgetmaster/modules/module_4/activities/activitty_1.dart';
-import 'package:budgetmaster/modules/module_4/activities/activity_2.dart';
-import 'package:budgetmaster/modules/module_4/activities/activity_3.dart';
-import 'package:budgetmaster/modules/module_4/activities/activity_4.dart';
-import 'package:budgetmaster/modules/module_4/activities/activity_5.dart';
+import 'package:babybloomers/modules/module_4/activities/activitty_1.dart';
+import 'package:babybloomers/modules/module_4/activities/activity_2.dart';
+import 'package:babybloomers/modules/module_4/activities/activity_3.dart';
+import 'package:babybloomers/modules/module_4/activities/activity_4.dart';
+import 'package:babybloomers/modules/module_4/activities/activity_5.dart';
 
 class ListActivities extends StatefulWidget {
   const ListActivities({super.key});
