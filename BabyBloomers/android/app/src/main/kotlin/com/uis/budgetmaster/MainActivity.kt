@@ -1,4 +1,4 @@
-package com.uis.budgetmaster
+package com.uis.babybloomers
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -45,7 +45,7 @@ class _CreateAccountState extends State<CreateAccount> {
                     color: Colors.deepPurpleAccent,
                   ),
                   Text(
-                    "Budget Master",
+                    "BabyBloomers",
                     style: TextStyle(
                       fontSize: 50,
                       fontWeight: FontWeight.w900,

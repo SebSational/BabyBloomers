@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.uis" "\0"
-            VALUE "FileDescription", "budgetmaster" "\0"
+            VALUE "FileDescription", "babybloomers" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "budgetmaster" "\0"
+            VALUE "InternalName", "babybloomers" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.uis. All rights reserved." "\0"
-            VALUE "OriginalFilename", "budgetmaster.exe" "\0"
-            VALUE "ProductName", "budgetmaster" "\0"
+            VALUE "OriginalFilename", "babybloomers.exe" "\0"
+            VALUE "ProductName", "babybloomers" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

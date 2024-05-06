@@ -21,7 +21,7 @@ class ListActivitiesState extends State<ListActivities> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
+      title: 'BabyBloomers',
       theme: ThemeData(
         scaffoldBackgroundColor: const Color(0xFFFFFFFF),
 

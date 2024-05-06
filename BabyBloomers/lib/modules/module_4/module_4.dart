@@ -18,7 +18,7 @@ class Module4State extends State<Module4> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
+      title: 'BabyBloomers',
       theme: ThemeData(
         scaffoldBackgroundColor: const Color(0xFFFFFFFF),
 
